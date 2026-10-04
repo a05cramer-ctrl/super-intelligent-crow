@@ -1,1 +1,1 @@
-window.CROW_CFG = { NAME: "super intelligent crow", TICKER: "crow", CA: "", CHAIN: "solana", PAD: "pumpfun", PAIR: "", X: "", BUY: "", CHART: "", WALLET: "" };
+window.CROW_CFG = { NAME: "super intelligent crow", TICKER: "crow", CA: "3kxVgMDKwEYqgBRASZuVDhPXEJui1MDGWG7u6aZopump", CHAIN: "solana", PAD: "pumpfun", PAIR: "", X: "https://x.com/superintelcrow", BUY: "https://pump.fun/coin/3kxVgMDKwEYqgBRASZuVDhPXEJui1MDGWG7u6aZopump", CHART: "https://gmgn.ai/sol/token/3kxVgMDKwEYqgBRASZuVDhPXEJui1MDGWG7u6aZopump", WALLET: "" };
